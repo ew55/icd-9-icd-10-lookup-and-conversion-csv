@@ -6,7 +6,7 @@ Date: December 2024
 
 Author: Ethan Ward
 
-This readme gives a description of the process to generate icd code lookup tables and conversion table
+This readme describes the process to generate icd code lookup tables and a conversion table
 from ICD-9 to ICD-10 classification. Despite extensive documentation regarding the icd codes, there seem to be no official
 tabulated versions of the codes and their categorisation, nor a particularly good resource for converting
 across the old system to the new one. I upload my versions of these tables, which I created for the sake of analysing
