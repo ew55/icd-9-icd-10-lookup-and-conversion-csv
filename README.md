@@ -30,10 +30,10 @@ This repository then includes:
 
 Raw Data
 
-- \icd9\raw_pdfs\additional-diag-codes.pdf (\diag-codes_*.pdf; \v01_supplementary.pdf): 	
-	  raw ICD-9 codebooks.
+- additional-diag-codes.pdf (\diag-codes_*.pdf; \v01_supplementary.pdf): 	
+	  raw ICD-9 codebooks. Downloadable at link below.
   
-- \icd10\raw_pdfs\icd10cm-tabular-April 1 2023.pdf: raw ICD-10 codebook.
+- icd10cm-tabular-April 1 2023.pdf: raw ICD-10 codebook. Downloadable at link below.
 
 Processed Raw Data
 
